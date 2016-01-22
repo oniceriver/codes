@@ -3,7 +3,7 @@
     /**
      *函数库
      *自定义函数
-     *author 毛忠田
+     *author oniceriver(oniceriver@gmail.com)
      *date:2015年1月19日
      */
     //=================================
@@ -16,7 +16,7 @@
      *@param $modelname string model类的名字
      *@param $arr array 需要导入的数组,键为数据库字段
      *@return  $return  执行的结果
-     *author 毛忠田
+     *author oniceriver(oniceriver@gmail.com)
      */
 
 
